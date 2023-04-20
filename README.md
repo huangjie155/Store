@@ -1,4 +1,4 @@
-# MariaDB CM扩展
+# CM的MariaDB扩展
 CDH MariaDB服务扩展包包含：
 
 MARIADB-10.6.12-el7.parcel   
